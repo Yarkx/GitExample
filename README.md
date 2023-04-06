@@ -1,2 +1,2 @@
 # GitExample
- 
+ My GIT
